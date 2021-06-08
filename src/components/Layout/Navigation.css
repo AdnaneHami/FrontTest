@@ -1,0 +1,32 @@
+.sidebar_item {    
+    display: block;
+   	width: 50px;
+   	height: 50px;   	
+   	margin-top: 20px;   
+}
+ 
+nav ul  {
+	position: relative;
+	display: block;
+}
+ 
+h1{
+	 padding-left: 300px;
+	 text-decoration: none;
+	 color: white;
+}
+
+.container {
+	height: 100px;
+	position: relative;
+	border: 3px solid rgb(255, 255, 255);
+  }
+
+.center {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+  }
